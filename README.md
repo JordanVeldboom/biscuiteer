@@ -1,3 +1,5 @@
+# <img src="man/figures/biscuiteer_logo.png" align="right">
+
 # biscuiteer
 
 [![Build Status](https://travis-ci.org/ttriche/biscuiteer.png?branch=master)](https://travis-ci.org/ttriche/biscuiteer)  [![codecov](https://codecov.io/gh/ttriche/biscuiteer/branch/master/graph/badge.svg)](https://codecov.io/gh/ttriche/biscuiteer)
